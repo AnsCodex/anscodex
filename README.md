@@ -1,8 +1,5 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=AnS%20CodeX&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Telegram%20Bot%20Architect&descFontSize=22&descAlignY=58" width="100%" />
-  </a>
-
   <p align="center">
     <a href="https://t.me/anscodex"><img src="https://img.shields.io/badge/Developer-@anscodex-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="https://t.me/AnS_Bots"><img src="https://img.shields.io/badge/Updates-@AnS__Bots-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /></a>
