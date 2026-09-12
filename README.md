@@ -1,9 +1,6 @@
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=AnS%20CodeX&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Telegram%20Bot%20Architect&descFontSize=22&descAlignY=58" width="100%" />
-
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFB2&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+AnS+CodeX+👋;Full-Stack+%26+Telegram+Bot+Architect+⚡;Crafting+High-Performance+Scalable+Tools+🚀;Specialist+in+Python%2C+Asyncio+%26+FFmpeg+🎬;Turning+complex+ideas+into+lightning-fast+code+✨" alt="Typing SVG" />
   </a>
 
   <p align="center">
