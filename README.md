@@ -56,12 +56,12 @@ motto: "Clean code, zero latency, maximum throughput."
 ### 📊 GitHub Analytics & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshvachhani998&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=c9d1d9" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshvachhani998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=c9d1d9" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anscodex&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&icon_color=00FFB2&text_color=c9d1d9" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anscodex&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFB2&text_color=c9d1d9" height="175" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshvachhani998&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anscodex&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2" alt="GitHub Streak" />
 </p>
 
 ---
